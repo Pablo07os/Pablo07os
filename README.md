@@ -6,24 +6,23 @@ Sou apaixonado por tecnologia e estou em constante evolução como desenvolvedor
 
 ---
 
+## 📊 Dashboard de Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pablo07os&show_icons=true&theme=dark" width="400" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo07os&layout=compact&theme=dark" width="400" height="200"/>
+</div>
+
+
+
+--- 
+
 ## 🧠 Sobre mim
 
 - 🎓 Estudante de Tecnologia
 - 🌎 SP - Brasil 
 - 📱 Interesse em Desenvolvimento Mobile e Frontend
 - 🚀 Sempre aprendendo algo novo
-
---- 
-
-## 📊 Dashboard de Estatísticas
-
-<div> 
- <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=Pablo07os&show_icons=true&theme=dark"/>
-  <img ... /> &nbsp;&nbsp;&nbsp; <img ... />
-  <img ... /> &nbsp;&nbsp;&nbsp; <img ... />
-  <img ... /> &nbsp;&nbsp;&nbsp; <img ... />
-<img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo07os&layout=compact&theme=dark"/>
-</div>
 
 ---
 
