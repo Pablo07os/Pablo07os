@@ -7,10 +7,9 @@ Sou apaixonado por tecnologia e estou em constante evolução como desenvolvedor
 ---
 
 ## 📊 Dashboard de Estatísticas
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pablo07os&show_icons=true&theme=dark" width="400" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo07os&layout=compact&theme=dark" width="400" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pablo07os&show_icons=true&theme=dark"/>
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pablo07os&show_icons=true&theme=dark"/>
 </div>
 
 
